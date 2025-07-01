@@ -34,7 +34,7 @@ Planilha Excel com colunas para:
 Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/mercadolivre-price-scraper.git
+git clone https://github.com/Leonardoabs/scraper-precos-mercadolivre
 cd mercadolivre-price-scraper
 ```
 
@@ -73,7 +73,3 @@ O programa gera um arquivo Excel no formato `produtos_<termo>.xlsx` com os dados
 ## 🤝 Contribuição
 
 Contribuições são bem-vindas! Para sugerir melhorias ou reportar problemas, abra uma issue ou envie um pull request.
-
-## 📄 Licença
-
-Este projeto está licenciado sob a licença MIT — veja o arquivo LICENSE para detalhes.
